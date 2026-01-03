@@ -1,5 +1,10 @@
 ## Unsupervised Learning
 
+
+![Local image](Unsupervised_Learning.png)
+
+
+
 ### Core Concepts
 Unlike supervised learning where data comes with target labels (e.g., "Spam" vs. "Not Spam"), **Unsupervised Learning** deals with unlabeled data. The goal is to discover hidden patterns, structures, or groupings within the dataset itself.
 
@@ -94,3 +99,5 @@ Algorithms like K-Means and KNN rely heavily on how "distance" is defined.
 | **Shape** | Spherical/Convex | Arbitrary | Arbitrary |
 | **Outliers** | Sensitive (Distorts mean) | Dependent on Linkage | **Robust** (Ignores noise) |
 | **Parameters** | Must specify **K** | Linkage type, Cutoff | **Epsilon**, **MinPts** |
+
+[def]: Unsupervised_Learning.png
