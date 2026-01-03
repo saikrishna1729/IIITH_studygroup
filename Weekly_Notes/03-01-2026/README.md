@@ -1,7 +1,7 @@
 ## Unsupervised Learning
 
 
-![Local image](Unsupervised_Learning.png)
+![unsupervised](Unsupervised_Learning.png)
 
 
 
